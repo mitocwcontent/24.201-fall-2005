@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Metaphysics"
+    ]
+  ],
+  "legacy_uid": "7c26ca51-d0ca-20cf-d050-60d207a0dca1",
+  "instructors": {
+    "content": [
+      "c94921a4-f2a5-37a3-dc99-08157108d104"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e6642eed-1b45-afb1-c7f5-02c24a00040a",
+    "website": "24-201-topics-in-the-history-of-philosophy-kant-fall-2005"
+  },
+  "course_title": "Topics in the History of Philosophy: Kant",
+  "course_description": "In this course we shall study the _Critique of Pure Reason_ with special focus on questions about idealism, about our ignorance of things in themselves, and about what, if anything, idealism has to do with this kind of ignorance. Along the way we shall consider Kant's distinctive account of space, matter, and force, all of which had a significant role to play in his own philosophy, and in the historical evolution of field theory. In the last part of the course we shall look at an alternative, and unorthodox, interpretation of Kant's distinction between phenomena and things in themselves (as argued for in my own book, _Kantian Humility_).\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.201",
+  "course_image_thumbnail": {
+    "content": "d79e199f-f759-bff0-7e7b-74bad7e8a5aa",
+    "website": "24-201-topics-in-the-history-of-philosophy-kant-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "82ca7225-884c-4e75-90d5-d4bcd7d0a099",
+  "title": "Course Metadata"
+}
